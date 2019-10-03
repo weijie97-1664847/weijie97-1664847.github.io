@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color:purple;
+    font-size: 45px;
+}
+
+p {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.float-right {
+    float: right;
+}
+
+.img-standard-size {
+    width: 250px;
+    height: 250px;
+    margin: 10px
+}
+
+.box-rounded {
+    border: 3px solid red;
+    border-radius: 20px;
+    padding: 2px 10px;
+    overflow: auto;
+}
